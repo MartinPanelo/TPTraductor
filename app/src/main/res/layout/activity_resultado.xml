@@ -8,22 +8,21 @@
 
     <TextView
         android:id="@+id/TVTitulo"
-        android:layout_width="152dp"
-        android:layout_height="25dp"
-        android:layout_marginTop="56dp"
+        android:layout_width="213dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="60dp"
         android:text="Palabra Traducida"
-        android:textSize="15sp"
+        android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintHorizontal_bias="0.494"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/TVResultado"
-        android:layout_width="149dp"
-        android:layout_height="30dp"
+        android:layout_width="202dp"
+        android:layout_height="48dp"
         android:layout_marginTop="92dp"
-        android:background="#DDF5C6"
         android:text="TextView"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
